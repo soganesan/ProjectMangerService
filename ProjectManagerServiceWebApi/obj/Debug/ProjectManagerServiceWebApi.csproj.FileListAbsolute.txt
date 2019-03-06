@@ -1,0 +1,267 @@
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManagerServiceWebApi.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.BL.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.DL.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\ProjectManager.Entities.dll.config
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.dll
+C:\Users\Admin\Desktop\Final\ProjectManagerService_assignment\ProjectManagerService-master\ProjectManagerServiceWebApi\obj\Debug\ProjectManagerServiceWebApi.pdb

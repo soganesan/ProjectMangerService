@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.BL.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.BL.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.BL.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.DL.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.Entities.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.DL.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.DL.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.Entities.pdb
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\ProjectManager.Entities.dll.config
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\obj\Debug\ProjectManager.BL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\obj\Debug\ProjectManager.BL.dll
+C:\Users\Admin\Desktop\ProjectManagerService-master (1)\ProjectManagerService-master\ProjectManager.BL\obj\Debug\ProjectManager.BL.pdb

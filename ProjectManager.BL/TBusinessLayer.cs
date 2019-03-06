@@ -27,7 +27,7 @@ namespace ProjectManager.BussinessLayer
                 db.Tasks.Add(tasks);
                 db.SaveChanges();
             }
-            catch (Exception ex)
+            catch (Exception )
             {
                 return false;
             }

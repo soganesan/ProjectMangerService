@@ -24,17 +24,17 @@ namespace ProjectManager.NUnit
         [TestCase]
         public void GetTasks()
         {
-            List<TaskTable> tasks = task.GetAllTasks().Where(i => i.TaskId.Equals(2002)).ToList();
+            List<TaskTable> tasks = task.GetAllTasks().Where(i => i.TaskId.Equals(1745)).ToList();
         }
 
         [TestCase]
         public void SaveTasks()
         {
             var tasks = new TaskTable { 
-                ProjectName = "NUNIT", ProjectId = 100, TaskName = "NUNIT",
+                ProjectName = "TEST", ProjectId = 11454, TaskName = "TEST",
                 Priority = 10,  ParentTask = "TEST",  IsParent = true,
-                StartDate = Convert.ToDateTime("2018-10-18"), EndDate = Convert.ToDateTime("2018-10-18"),
-                UserId = 1, UserName = "NUNIT",  Deleted = false, Status = "Completed"};
+                StartDate = Convert.ToDateTime("2019-11-19"), EndDate = Convert.ToDateTime("2019-11-19"),
+                UserId = 1, UserName = "TEST",  Deleted = false, Status = "Completed"};
 
             bool added = task.Add(tasks);
             Assert.AreEqual(true, added);
@@ -45,17 +45,17 @@ namespace ProjectManager.NUnit
         {
             var tasks = new TaskTable
             {
-                TaskId = 1003,
-                ProjectName = "NUNIT",
-                ProjectId = 100,
-                TaskName = "NUNIT",
+                TaskId = 11454,
+                ProjectName = "TEST",
+                ProjectId = 11454,
+                TaskName = "TEST",
                 Priority = 10,
                 ParentTask = "TEST",
                 IsParent = true,
-                StartDate = Convert.ToDateTime("2018-10-18"),
-                EndDate = Convert.ToDateTime("2018-10-18"),
+                StartDate = Convert.ToDateTime("2019-11-19"),
+                EndDate = Convert.ToDateTime("2019-11-19"),
                 UserId = 1,
-                UserName = "NUNIT",
+                UserName = "TEST",
                 Deleted = false,
                 Status = "Completed"
             };
@@ -67,10 +67,10 @@ namespace ProjectManager.NUnit
         [TestCase]
         public void DeleteTask()
         {
-            var tasks = new TaskTable { ParentTask = "", TaskName = "to be deleted", StartDate = Convert.ToDateTime("2018-10-18"), EndDate = Convert.ToDateTime("2018-10-18"), Priority = 20, Deleted = false };
+            var tasks = new TaskTable { ParentTask = "", TaskName = "Test", StartDate = Convert.ToDateTime("2019-11-19"), EndDate = Convert.ToDateTime("2019-11-19"), Priority = 20, Deleted = false };
             task.Add(tasks);
 
-            List<TaskTable> toBeDeleteTask = task.GetAllTasks().Where(i => i.TaskName.Equals("to be deleted") && i.Deleted.Equals(false)).ToList();
+            List<TaskTable> toBeDeleteTask = task.GetAllTasks().Where(i => i.TaskName.Equals("Test") && i.Deleted.Equals(false)).ToList();
 
             bool deleted = task.Delete(toBeDeleteTask[0].TaskId);
             Assert.AreEqual(true, deleted);
@@ -84,7 +84,7 @@ namespace ProjectManager.NUnit
         [TestCase]
         public void GetProjects()
         {
-            List<ProjectTable> projects = project.GetAllProjects().Where(i => i.ProjectId.Equals(2005)).ToList();
+            List<ProjectTable> projects = project.GetAllProjects().Where(i => i.ProjectId.Equals(5454)).ToList();
         }
 
         [TestCase]
@@ -92,10 +92,10 @@ namespace ProjectManager.NUnit
         {
             var projects = new ProjectTable
             {
-                ProjectName = "NUNIT",
+                ProjectName = "TEST",
                 Priority = 10,
-                StartDate = Convert.ToDateTime("2018-10-18"),
-                EndDate = Convert.ToDateTime("2018-10-18"),
+                StartDate = Convert.ToDateTime("2019-11-19"),
+                EndDate = Convert.ToDateTime("2019-11-19"),
                 UserId = 1,
                 ManagerName = "User 2",
                 Deleted = false
@@ -110,10 +110,10 @@ namespace ProjectManager.NUnit
         {
             var projects = new ProjectTable
             {ProjectId = 1,
-                ProjectName = "NUNIT",
+                ProjectName = "TEST",
                 Priority = 10,
-                StartDate = Convert.ToDateTime("2018-10-18"),
-                EndDate = Convert.ToDateTime("2018-10-18"),
+               StartDate = Convert.ToDateTime("2019-11-19"),
+             EndDate = Convert.ToDateTime("2019-11-19"),
                 UserId = 1,
                 ManagerName = "User 2",
                 Deleted = false
@@ -139,8 +139,8 @@ namespace ProjectManager.NUnit
         {
             var users = new UserTable
             {
-FirstName = "NUNIT",
-LastName = "NUNIT",
+FirstName = "TEST",
+LastName = "TEST",
 EmployeeId = 3,
 Deleted = false
             };
@@ -154,9 +154,9 @@ Deleted = false
         {
             var users = new UserTable
             {
-                UserId = 1002,
-                FirstName = "NUNIT",
-                LastName = "NUNIT",
+                UserId = 1472,
+                FirstName = "TEST",
+                LastName = "TEST",
                 EmployeeId = 3,
                 Deleted = false
             };
